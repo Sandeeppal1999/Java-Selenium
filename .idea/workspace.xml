@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a67ad7-1623-446b-9d38-af295ef742de" name="Changes" comment="" />
+    <list default="true" id="50a67ad7-1623-446b-9d38-af295ef742de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Launch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/string/String01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic_Java/string/String01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.FirstProgram.executor&quot;: &quot;Run&quot;,
     &quot;Application.Launch.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sign.executor&quot;: &quot;Run&quot;,
     &quot;Application.SignIn.executor&quot;: &quot;Run&quot;,
@@ -42,10 +49,23 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/pals/Desktop/S-Learn/java-selenium/java-selenium/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FirstProgram">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.learnSelenium.basic.SignIn">
     <configuration name="FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstProgram" />
       <module name="java-selenium" />
@@ -73,8 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="learnSelenium.basic.SignIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnSelenium.basic.SignIn" />
+      <module name="java-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnSelenium.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.learnSelenium.basic.SignIn" />
         <item itemvalue="Application.FirstProgram" />
         <item itemvalue="Application.SignIn" />
         <item itemvalue="Application.Launch" />
