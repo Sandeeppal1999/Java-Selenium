@@ -45,7 +45,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SignIn">
+  <component name="RunManager" selected="Application.FirstProgram">
+    <configuration name="FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstProgram" />
+      <module name="java-selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Launch" />
       <module name="java-selenium" />
@@ -68,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstProgram" />
         <item itemvalue="Application.SignIn" />
         <item itemvalue="Application.Launch" />
       </list>
