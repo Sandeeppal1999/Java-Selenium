@@ -1,0 +1,7 @@
+P1: Swap two num without using third varibale
+P2: Swap two string without using third varibale
+P3: Disarium Number
+P4 :Count_no_of_letter
+P5: count vowels
+P6: Revser string
+P7: 
